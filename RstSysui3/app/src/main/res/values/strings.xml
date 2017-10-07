@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">箱子</string>
+    <string name="github">Shell</string>
+    <string name="run_as_root">以Root权限运行</string>
+    <string name="run">运行</string>
+
+</resources>
