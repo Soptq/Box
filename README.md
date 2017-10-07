@@ -7,3 +7,4 @@
 开源协议：GNU General Public License v3.0
 
 已编译并上架酷安，根据开源协议承诺永远不从此项目中牟利，永远不架设广告。
+https://www.coolapk.com/apk/162855
